@@ -1,0 +1,2 @@
+# gol
+Log collection agent
